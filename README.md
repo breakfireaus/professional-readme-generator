@@ -18,6 +18,8 @@
 
   ## Usage
   Type in your terminal node index.js once you have cloned the git
+  Video link for explanation and demo of Video
+  https://drive.google.com/file/d/19YxAkxrH-uTYatMXfNU2MsnkUxxGbyWU/view
 
   ## Credits
   - Traversy Media - My Tutor - W3schools - MDN DOCS - My instructors
